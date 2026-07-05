@@ -1,1 +1,9 @@
-    
+To use this project you need to download this technologies:
+
+1. vs code
+2. python
+3. python libraries:
+4. tldextract
+5. socket ( inbuilt )
+6. ipaddress ( inbuilt )
+7. whois ( inbuilt )
