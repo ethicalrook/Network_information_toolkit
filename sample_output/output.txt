@@ -1,0 +1,10 @@
+output example (CLI):
+
+enter your domain:facebook.com
+=====================================================
+           Network toolkit                           
+=====================================================
+Targeted domain: facebook.com
+IP address: 57.144.208.1
+Registrar name: RegistrarSafe, LLC
+Ip status: Public
